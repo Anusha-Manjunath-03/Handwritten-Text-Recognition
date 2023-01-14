@@ -4,3 +4,4 @@ The dataset used is the most popular handwritten dataset available online which 
 It consists of plenty of handwritten words from different authors.
 CRNN and AlexNet models have been built. CTC loss function is used for both the models.
 Accuracy obtained for CRNN on test samples is 73.44% and on AlexNet is 34.37%
+The project is being extended to build a new model for comparison. VGG16 is implemented which is giving an accuracy of 65% on test set.
